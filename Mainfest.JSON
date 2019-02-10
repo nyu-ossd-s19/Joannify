@@ -4,9 +4,9 @@
 	"name": "Joannify",
 	"version": "1.0",
 
-	"description": "Replaces all pictures with Joanna Face"
-	"homepage_url": ""
+	"description": "Replaces all pictures with Joanna Face",
+	"homepage_url": "",
 	"icons": {
-	
+		"Joanna-1": "icons/Joanna-1.jpg"
 	}
 }
