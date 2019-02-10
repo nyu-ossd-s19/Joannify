@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": Joannify,
+    "version": 0.1,
+
+    "description": "changes all photos on a webpage into pictures of Joanna Klukowska.",
+
+    "icons": {
+        "face1": "icons/face1.png"
+    }
+}
