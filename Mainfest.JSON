@@ -7,10 +7,10 @@
 	"description": "Replaces all pictures with Joanna Face",
 	"homepage_url": "https://github.com/nyu-ossd-s19/Joannify",
 	"icons": {
-		"Joanna-1": "icons/Joanna-1.jpg"
+		"Joanna-1": "icons/Joanna-48.jpg"
 	},
 
 	"web_accessible_resources": [
-		"icons/Joanna-1.jpg"
+		"faces/Joanna-1.jpg"
 	]
 }
