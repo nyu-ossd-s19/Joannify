@@ -1,0 +1,12 @@
+{
+	
+	"manifest_version": 2,
+	"name": "Joannify",
+	"version": "1.0",
+
+	"description": "Replaces all pictures with Joanna Face"
+	"homepage_url": ""
+	"icons": {
+	
+	}
+}
