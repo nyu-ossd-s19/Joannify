@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Joannify",
+  "version": "1.0",
+
+  "description": "Turns all images on the current page into Joanna Klukowska's face.",
+
+  "icons": {
+    "48": "icons/Joanna-1.jpg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["joannify.js"]
+    }
+  ]
+
+}
