@@ -7,7 +7,7 @@
   "description": "Turns all images on the current page into Joanna Klukowska's face.",
 
   "icons": {
-    "48": "icons/Joanna-48.jpg"
+    "48": "icons/Joanna-48.png"
   },
 
   "content_scripts": [
