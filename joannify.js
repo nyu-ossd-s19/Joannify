@@ -4,6 +4,6 @@
 
 let imgs = document.getElementsByTagName("img");
     for(let i = 0; len = imgs.length; i<len, i++){
-    	imgs[i].src = 'https://cs.nyu.edu/~joannakl/Images/photo1.JPG'
+    	imgs[i].src = 'https://github.com/nyu-ossd-s19/Joannify/blob/master/images/photo1.jpg'
     };
 
