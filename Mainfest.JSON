@@ -4,9 +4,13 @@
 	"name": "Joannify",
 	"version": "1.0",
 
-	"description": "Replaces all pictures with Joanna Face"
-	"homepage_url": ""
+	"description": "Replaces all pictures with Joanna Face",
+	"homepage_url": "https://github.com/nyu-ossd-s19/Joannify",
 	"icons": {
-	
-	}
+		"ID": "icons/Joanna-48.jpg"
+	},
+
+	"web_accessible_resources": [
+		"faces/Joanna-1.jpg"
+	]
 }
